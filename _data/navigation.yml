@@ -34,18 +34,9 @@ offerings:
         baseurl: /F19-1L
 
 offering_links:
-   - title: Hwk
-     url: /hwk/
-     description: "Homework Assignments"
    - title: Lab
      url: /lab/
      description: "Lab Assignments"
-   - title: Lecture
-     url: /lecture/
-     description: "Lecture"
-   - title: Cal
-     url: /info/calendar/
-     description: "Assignment Calendar"
    - title: Github
      dropdown:
          - title: CCS-1A-F20
